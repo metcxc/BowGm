@@ -18,6 +18,9 @@ h1 {
   font-weight: bold;
   animation: rgb-animation 6s infinite;
   font-family: "Cedarville Cursive";
+* {
+margin: 0;
+padding: 0;
 }
 
 @keyframes rgb-animation {
